@@ -1,4 +1,11 @@
-**HOW MUCH PROTEIN ASSIMILES THE BODY?**
+---
+layout: post
+title: "How Much Protein Assimiles The Body?"
+author: "Istayfitness"
+categories: journal
+tags: [documentation,sample]
+image: calorias.jpg
+---
 
 On protein there are many doubts in the world of fitness. Many. It is the star macronutrient, and **for that reason people who attend the gym literally eat their heads trying to optimize their consumption**, both in total daily amount and how many times they need to consume protein and how much per shot.
 
