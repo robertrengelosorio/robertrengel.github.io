@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Much Protein Assimiles The Body?"
-author: "Istayfitness"
+author: "istayfitness"
 categories: journal
 tags: [documentation,sample]
 image: calorias.jpg
