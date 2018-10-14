@@ -9,7 +9,7 @@ image: ayuno.jpg
 
 In this article I will explain in detail the intermittent fasting protocol called **Lean Gains**, created by **Martin Berkhan** in 2013 for its website, which has the same name as the protocol. It is a protocol that I have practiced with assiduity in the past and that I strongly recommend given its ease, being much less restrictive than other more aggressive protocols and above all because it can be customized much to cover many scenarios and many schedules.
 
-####ADVANTAGES OF FASTING
+ADVANTAGES OF FASTING
 
 Before entering into the protocol itself I would like to recall some of the advantages of intermittent fasting in a very summary way.
 
