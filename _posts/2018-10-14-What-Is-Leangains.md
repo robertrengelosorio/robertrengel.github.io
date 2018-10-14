@@ -9,7 +9,7 @@ image: ayuno.jpg
 
 In this article I will explain in detail the intermittent fasting protocol called **Lean Gains**, created by **Martin Berkhan** in 2013 for its website, which has the same name as the protocol. It is a protocol that I have practiced with assiduity in the past and that I strongly recommend given its ease, being much less restrictive than other more aggressive protocols and above all because it can be customized much to cover many scenarios and many schedules.
 
-ADVANTAGES OF FASTING
+#### ADVANTAGES OF FASTING
 
 Before entering into the protocol itself I would like to recall some of the advantages of intermittent fasting in a very summary way.
 
@@ -24,13 +24,11 @@ Before entering into the protocol itself I would like to recall some of the adva
 9. It seems to limit the growth of tumor cells
 10. Improves the relationship with food, reduces anxiety and improves social life.
 
-
-
 Seeing all this would be logical for everyone to throw themselves into intermittent fasting, and while it is true that fasting is a very interesting tool, the reality is that many advantages overlap with simple caloric restriction or physical exercise. . **Or simply improve the quality of the diet or improve the rest.**
 
 This must be taken into account. **Fasting is very interesting, but it is not magic.**
 
-####LEANGAINS PROTOCOL
+#### LEANGAINS PROTOCOL
 
 Given the advantages as a summary, we will directly explain the protocol that concerns us.
 
@@ -42,7 +40,7 @@ Remember, **clear priorities first of all**. Fasting would be at the third level
 
 Do not you know what I mean by this of the levels? Read this article and it will be clear to you. Being clear that we have 8 hours to eat and 16 hours of fasting, Martin offers us 4 options so that you can choose the one that **best suits your lifestyle**. Let's see them.
 
-####OPTION 1 - FASTING TRAINING
+#### OPTION 1 - FASTING TRAINING
 
 In this protocol, fasting training would be carried out.
 
@@ -58,12 +56,12 @@ After this, a meal would be made immediately after, which Martin recommends that
 
 **9PM:** Last meal before fasting.
 
-####NOTES
+#### NOTES
 
 - No need to make 3 meals. We can make two meals, although at the level of results it is probably better to make 3 meals and distribute the protein evenly among the 3 doses.
 - Martin recommends consuming **BCAAs** before training to avoid muscle catabolism, but recent studies have shown the poor efficacy of branched amino acids, so I would replace it with Whey.
 
-####OPTION 2 - EARLY TRAINING IN FASTES
+#### OPTION 2 - EARLY TRAINING IN FASTES
 
 This will also have a fasting training, but it is for those who train very early.
 
@@ -71,7 +69,7 @@ In the initial protocol Martin recommended doing 3 shots of BCAAs (**one before 
 
 The idea of being several hours consuming **BCAAs** without eating after training, seen the recent studies, I do not just convince and I can not recommend to maximize the results. Simply count 8 hours after training and consume 2-3 mixed meals to taste and when they finish these 8 hours, **start the daily fast.**
 
-####OPTION 3 - A PRE-TRAINING MEAL
+#### OPTION 3 - A PRE-TRAINING MEAL
 
 As its name indicates, in this option we will make a pre-workout meal that will occupy approximately 25% of the calories of the day and 1/3 of the amount of protein. Post-training we will make the main meal of the day, **which will consist of 40-50% of the calories of the day and 3 hours after a last meal similar to the first**.
 
@@ -85,11 +83,11 @@ An example would be the following:
 
 **21:00** Last meal before fasting.
 
-####OPTION 4 - TWO MEALS BEFORE THE TRAINING
+#### OPTION 4 - TWO MEALS BEFORE THE TRAINING
 
 Exactly like the previous one, but instead of a meal, we will make two meals before training. This option is for people who train in the afternoon and want to fast in the morning. In this case, the most important meal would be the last one, with 50% of the total calories approximately.
 
-> ####*This option is for people who train in the afternoon and want to fast in the morning*
+> #### *This option is for people who train in the afternoon and want to fast in the morning*
 
 **Example**
 
